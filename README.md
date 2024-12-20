@@ -1,1 +1,1 @@
-# quarto_example_notebooks
+# Installing the notebooks

@@ -1,0 +1,10 @@
+name = "quarto_lectures"
+authors = ["Jesse Perla <jesseperla@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"

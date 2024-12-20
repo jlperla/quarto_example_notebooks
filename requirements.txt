@@ -1,0 +1,15 @@
+jupyter
+nbconvert
+ffmpeg-python
+jupyter-cache
+ipython
+ipykernel
+black
+
+#  Project requirements
+numpy
+pandas
+statsmodels
+seaborn
+matplotlib
+jsonargparse[signatures]

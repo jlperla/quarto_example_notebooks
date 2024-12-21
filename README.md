@@ -1,5 +1,6 @@
 # Notebook Repository
-This repository is a public notebook repo associatd with 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jlperla/quarto_example_notebooks/HEAD)
+This repository is a public notebook repo associated with the [Quarto Example Slides](https://jlperla.github.io/quarto_example/)
 
 ## Installation
 Conda environments ar recommended
